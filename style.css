@@ -1,5 +1,6 @@
 	  body{
 	  color:darkviolet;
+		  font-family:sans-serif,monospace;
     }
 	  .center{
       text-align:center;
@@ -30,3 +31,6 @@
 	    float:left;
 	    color:black;
     }
+.boxed{
+border:3px dashed gray;
+}
