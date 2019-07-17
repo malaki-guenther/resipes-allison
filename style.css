@@ -1,6 +1,7 @@
 	  body{
 	  color:darkviolet;
-		  font-family:sans-serif,monospace;
+	font-family:sans-serif,monospace;
+		  font-weight:bold;
     }
 	  .center{
       text-align:center;
@@ -33,4 +34,7 @@
     }
 .boxed{
 border:3px dashed purple;
+}
+li{
+font-weight:none;
 }
