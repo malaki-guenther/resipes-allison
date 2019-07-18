@@ -11,7 +11,7 @@
 	width:450px;    
 	}
     .info{
-      height:700px;
+      height:400px;
       width:400px;
       overflow:auto;
     }
@@ -34,4 +34,7 @@
     }
 .boxed{
 border:3px dashed purple;
+}
+img{
+-webkit-transform:rotate(90deg);
 }
