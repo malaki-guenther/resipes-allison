@@ -37,4 +37,6 @@ border:3px dashed purple;
 }
 img{
 -webkit-transform:rotate(90deg);
+	height=400px
+	overflow=auto
 }
