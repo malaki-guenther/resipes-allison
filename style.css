@@ -9,7 +9,8 @@
 	  }
     .home{
       margin:auto;
-	width:450px;    
+	width:450px;
+	    border:1px solid black;
 	}
     .info{
       width:400px;
