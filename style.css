@@ -2,6 +2,7 @@
 	  color:darkviolet;
 	font-family:"Comic Sans MS", "Verdana", sans-serif;
 		  font-weight:bold;
+		  z-index:1;
     }
 	  .center{
       text-align:center;
@@ -37,11 +38,7 @@ border:3px dashed purple;
 }
 img{
 -webkit-transform:rotate(90deg);
-
-}
-.img{
-height:400px;
-	overflow:auto;
+z-index:2;
 }
 li{
 font-family:"Verdana",sans-serif;
