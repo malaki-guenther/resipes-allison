@@ -48,4 +48,6 @@ font-family:"verdana",sans-serif;
 }
 .img{
 height:400px;
+	position:relative;
+	top:50px;
 }
