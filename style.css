@@ -24,11 +24,11 @@
 	  }
         .recipes{
       height:100px;
-      width:200px;
+      width:250px;
       overflow:auto;
     }
     #titles-and-list{
-    	    width:200px;
+    	    width:250px;
 	    float:left;
 	    color:black;
     }
