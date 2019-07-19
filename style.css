@@ -12,7 +12,6 @@
 	width:450px;    
 	}
     .info{
-      height:400px;
       width:400px;
       overflow:auto;
     }
@@ -29,7 +28,8 @@
       overflow:auto;
     }
     #titles-and-list{
-    	    width:250px;
+    	    position:fixed;
+	    width:250px;
 	    float:left;
 	    color:black;
     }
