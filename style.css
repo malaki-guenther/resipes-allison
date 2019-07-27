@@ -12,10 +12,14 @@
       margin:auto;
 	width:450px;
 	    border:1px solid black;
+	    
+		  padding:10px;
 	}
     .info{
       width:400px;
       overflow:auto;
+	    
+		  padding:10px;
     }
 	  .click{
 	  float:left;
@@ -29,15 +33,14 @@
       width:250px;
       overflow:auto;
     }
-    #titles-and-list{
+    .titles-and-list{
     	    position:fixed;
 	    width:250px;
 	    float:left;
 	    color:black;
+	    
+		  padding:10px;
     }
-.boxed{
-border:3px dashed purple;
-}
 img{
 -webkit-transform:rotate(90deg);
 z-index:1;
